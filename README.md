@@ -46,6 +46,11 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+### Codewars / LeetCode:
+
+<a  href="https://www.codewars.com/users/Echigrus/badges/small" target="_blank"> <img src="https://www.codewars.com/users/Echigrus/badges/small" ></a>
+<a  href="https://leetcode.com/u/echigrus/" target="_blank"> <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fechigrus&logo=leetcode&logoColor=yellow"> </a>
+
 ### Looking for a job \ Ищу работу
 
 Contact me at: <echigrus@gmail.com> <https://t.me/echigrus>
