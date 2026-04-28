@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Dmitry
 - 🇷🇺 Москва, Россия
 - ✏️ Языки: Русский - родной, английский - C1
-- 🤖 Пишу код 4+ года, в основном на JavaScript, реже C# (учу Python)
+- 🤖 Пишу код 4+ года, в основном на JavaScript, реже C#
 - 🐍 Ищу работу, читаю письма [echigrus@gmail.com](mailto:echigrus@gmail.com) [t.me/echigrus](https://t.me/echigrus)
 
 ### 🛠 Fancy badges
